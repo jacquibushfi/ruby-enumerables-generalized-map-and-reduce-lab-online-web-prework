@@ -1,4 +1,7 @@
 # Your Code Here
-def map
+def map(array)
+  new = []
+  i = 0
+  
   
 end
